@@ -1,0 +1,2 @@
+# djaveCRUDTable
+A single-page Django widget that takes a REST endpoint and displays an HTML table with several optional features including filters, a top row to create a new object, one object per row, inline editing, an edit and delete button per row, and a separate panel for creation an editing. djaveCRUDTable depends on Django templates server-side. It depends on jQuery, Backbone.js, and Underscore.js client-side.
